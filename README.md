@@ -6,7 +6,7 @@ This project was built by following [Dev ed tutorial](https://www.youtube.com/wa
 
 ### How to start project
 
-First, fork this repository to a local folder, after that, create a folder called `credentials.json` in the `src` folder, and copy paste this into the file: 
+First, fork this repository to a local folder, after that, edit the file called `credentials.json` in the `src` folder, and change `EDAMAM_API_KEY` to an actual edamam api key, and change `EDAMAM_API_ID` to an actual edamam api id 
 ```
 {
     "APP_KEY": "EDAMAM_API_KEY",
